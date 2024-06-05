@@ -1,6 +1,4 @@
-## Hi there 👋 
-
-### It's me Hariharan
+## Hi there 👋    It's me Hariharan
 
 
 Computer Science and Engineering Student
