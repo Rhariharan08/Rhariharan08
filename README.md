@@ -26,6 +26,8 @@ Computer Science and Engineering Student
 
 ![Hariharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhariharan08&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhariharan08&langs_count=8)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hariram082131?theme=light&font=Federo&ext=contest)
 
 ![Hariharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rhariharan08&bg_color=000000&color=ffffff&line=c061cb&point=ffffff&area=true&hide_border=true)
